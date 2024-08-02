@@ -1,6 +1,8 @@
 function Score({ date, score }) {
   return (
-      <pre>Date: {date}   Score: {score}</pre>
+    <pre>
+      Date: {date} Score: {score}
+    </pre>
   )
 }
 
