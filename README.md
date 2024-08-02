@@ -17,4 +17,4 @@ Code the <Learner> component so that it:
 
 Renders the learners's name & bio properties.
 Renders a <Score> component for each score object in the learner's scores property.
-Code the <Score> component so that it renders the score object's date & score properties.
+Code the <Score> component so that it renders the score object's date & score properties..
